@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/images/epic.jpg" width="300">
-![](/images/epic.jpg)
+
+![](docs/assets/images/epic.jpg)
 
 Hi, I'm Bennett. I'm a 5th year UBC electrical engineering student pursuing a minor in honours math. Academically and professionally, I'm interested in communication systems and information theory. 
 
